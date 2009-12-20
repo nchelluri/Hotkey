@@ -41,7 +41,7 @@ var keyPressed = function(c) {
   c = c.toUpperCase();
   switch(c) {
   case 'H':
-    alert('hello world');
+    alert('Hello world');
     break;
   default:
     break;
