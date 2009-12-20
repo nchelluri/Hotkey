@@ -6,7 +6,7 @@
  *
  * Tested (and working) in IE 8.0, Firefox 3.5, Chrome 4.0 and Opera 10.10.
  *
- * Acknowledgement: I looked at the source code for the very nice Legend of the Green Dragon
+ * Acknowledgements: I looked at the source code for the very nice Legend of the Green Dragon
  * (http://lotgd.net/) keypress functionality while writing this, as well as a number of
  * references to see the difference in implementation between browsers.
  *
