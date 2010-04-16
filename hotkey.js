@@ -1,5 +1,5 @@
 /**
- * Narsa's Hotkey Plugin
+ * Narsimham's Hotkey Plugin
  * 
  * Detect and take action when a key is pressed. To add hotkeys to your page, modify the
  * keyPressed function below as needed.
