@@ -6,14 +6,10 @@
  *
  * Tested (and working) in IE 8.0, Firefox 3.5, Chrome 4.0 and Opera 10.10.
  *
- * Acknowledgements: I looked at the source code for the very nice Legend of the Green Dragon
- * (http://lotgd.net/) keypress functionality while writing this, as well as a number of
- * references to see the difference in implementation between browsers.
- *
- * Mostly just putting this out there because I wanted to figure out how to make hotkeys
- * work in JavaScript and because I created a github account today and wanted to stick
- * something in there. :)
+ * Ack: http://lotgd.net/
  */
+
+(function() {
 
 var keyPress = function(event) {
   if(!event) {
@@ -49,3 +45,6 @@ var keyPressed = function(c) {
 };
 
 document.onkeypress = keyPress;
+
+})();
+
